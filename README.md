@@ -1,1 +1,1 @@
-# zabbix_templates_v11
+# zabbix_templates_v12

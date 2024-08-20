@@ -1,1 +1,1 @@
-echo "here is your modifications" >> ../../templates/my-template
+echo "here is your modifications" >> templates/my-template

@@ -5,6 +5,5 @@ cp githooks/setup-template.sh .git/hooks/post-checkout
 chmod +x .git/hooks/post-merge
 chmod +x .git/hooks/post-checkout
 
-cd .git/hooks
-./post-merge
+.git/hooks/post-merge
 

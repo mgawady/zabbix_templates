@@ -1,1 +1,1 @@
-echo "here is your modifications" >> templates/my-template
+echo "my hostname is `hostname`" >> templates/my-template

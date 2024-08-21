@@ -1,9 +1,7 @@
 @echo off
 
-copy githooks\setup-template.sh .git\hooks\post-merge
-copy githooks\setup-template.sh .git\hooks\post-checkout
+copy githooks\setup-template_win.sh .git\hooks\post-merge
+copy githooks\setup-template._win.sh .git\hooks\post-checkout
 
-chmod +x .git\hooks\post-merge
-chmod +x .git\hooks\post-checkout
+githooks\setup-template.bat
 
-call .git\hooks\post-merge

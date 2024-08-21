@@ -1,2 +1,1 @@
-zabbix_v5
-Hi
+zabbix_v6

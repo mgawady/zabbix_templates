@@ -1,1 +1,1 @@
-zabbix_v6
+zabbix_v7
